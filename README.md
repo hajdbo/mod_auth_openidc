@@ -1,3 +1,6 @@
+This version of mod_auth_openidc has no dependency to Redis libs or backend, so it's a easier to compile for stable debian systems.
+
+
 mod_auth_openidc
 ================
 
