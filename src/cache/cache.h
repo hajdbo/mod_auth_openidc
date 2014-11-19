@@ -89,6 +89,5 @@ apr_byte_t oidc_cache_mutex_destroy(server_rec *s, oidc_cache_mutex_t *m);
 extern oidc_cache_t oidc_cache_file;
 extern oidc_cache_t oidc_cache_memcache;
 extern oidc_cache_t oidc_cache_shm;
-extern oidc_cache_t oidc_cache_redis;
 
 #endif /* _MOD_AUTH_OPENIDC_CACHE_H_ */
